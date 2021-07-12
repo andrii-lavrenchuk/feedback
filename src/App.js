@@ -22,7 +22,7 @@ const App = () => {
         setBad((prevState) => prevState + 1);
         break;
       default:
-        console.warn("Такий тип не обробляється");
+        console.warn(" не обробляється");
     }
   };
 
